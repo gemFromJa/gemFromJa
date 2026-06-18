@@ -1,16 +1,36 @@
-## Hi there 👋
+# Halo
 
-<!--
-**gemFromJa/gemFromJa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-stack developer. When I'm not building products for startups, service businesses, and teams, I'm working on my personal hobby project; some make it on here, most are for my eyes only.
 
-Here are some ideas to get you started:
+I work mostly with React, Next.js, TypeScript, Node.js, PostgreSQL, Supabase, AWS, and automation workflows. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Learning Golang
+
+## What I build ( for hire )
+
+- Customer-facing web apps ( Need doc manager, Procurement, Saas )
+- Internal admin tools
+- Booking and CRM systems
+- Workflow automation
+- Performance and UX fixes
+- API integrations
+- MVPs and post-MVP product improvements
+
+## Recent focus
+
+I'm currently building tools around appointment booking, service business operations, and automation for manual real-world processes.
+
+## Stack
+
+React · Next.js · TypeScript · Node.js · PostgreSQL · Supabase · AWS · Docker · Tailwind · Vue · React Native
+
+## Featured work
+
+- Built marketplace, and ecommerce-style systems
+- Worked on high-traffic commerce and checkout experiences
+- Implemented AI product review summaries
+- Created data pipelines and third-party integrations
+
+## Links
+
+- Portfolio: https://svariable.dev
