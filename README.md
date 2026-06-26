@@ -33,4 +33,4 @@ React · Next.js · TypeScript · Node.js · PostgreSQL · Supabase · AWS · Do
 
 ## Links
 
-- Portfolio: https://svariable.dev
+- Portfolio: https://svariable.com
